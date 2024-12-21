@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 18-year-old developer with 3 years of experience. I'm good at languages like C#, C++, Lua, Python, and JavaScript.
+I'm a 19-year-old developer with 4 years of experience. I'm good at languages like C#, C++, Lua, Python, and JavaScript.
 
 
 ## 🌐 Socials:
