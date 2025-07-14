@@ -6,12 +6,12 @@
 
 **Languages:** Python • JavaScript • C++ • Rust • Lua  
 **Runtime:** Node.js  
-**Tools:** Zed Editor • GIMP  
+**Tools:** Zed Editor  
 **OS:** Arch Linux
 
 ## Connect
 
-[Discord server](https://discord.gg/sSC6pYxEZJ) • [Reddit](https://reddit.com/user/NotClavilux) 
+[Reddit](https://reddit.com/user/NotClavilux) 
 
 ---
 
