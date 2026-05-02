@@ -1,6 +1,6 @@
 # Hi, I'm NotClavilux 👋
 
-19-year-old developer with 4 years of experience building things with code.
+29-year-old developer with 4.5 years of experience building things with code.
 
 ## Languages & Tools
 
